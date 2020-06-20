@@ -24,9 +24,8 @@ try:
         os.makedirs('./Downloaded VIdeo')
     ytvideo.download('./Downloaded VIdeo')
     
-    for data in tqdm(iterable = ytvideo.iter_content(chunk_size = chunk_size),
-                     total = size/chunk_size, unit = 'KB'):
-        print("  Downlode Completed............. :)")
+    
+    print("  Downlode Completed............. :)")
     
     
 except:
