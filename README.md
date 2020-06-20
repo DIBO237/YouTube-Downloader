@@ -1,6 +1,6 @@
 # YouTube-Downloader
 It Download HD videos
 
-Requirements
+<h2>Requirements</h2>
 
-pip install pytube
+<p>pip install pytube3 --upgrade</p>
