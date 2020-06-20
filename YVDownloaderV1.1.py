@@ -1,10 +1,6 @@
 from pytube import YouTube# misc
 import os
-import shutil
-import math
-import datetime
-import progressbar 
-from tqdm import tqdm
+
 
 print('''
           ==========================================
